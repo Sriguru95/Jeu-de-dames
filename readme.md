@@ -24,3 +24,17 @@ Assurez-vous de disposer de la version 11 du compilateur C++ pour garantir la co
 ## Notes supplémentaires
 
 - Assurez-vous que les fichiers de police nécessaires, tels que "arial.ttf", sont présents dans le répertoire du programme.
+
+## Rendu final
+
+1. Jeu de Butin
+
+![image](https://portfolio-elumalai.fr/images/dame1.png)
+
+2. Jeu de Dames
+
+![image](https://portfolio-elumalai.fr/images/dame2.png)
+
+3. Jeu de Safari
+   
+![image](https://portfolio-elumalai.fr/images/dame3.jpg)
